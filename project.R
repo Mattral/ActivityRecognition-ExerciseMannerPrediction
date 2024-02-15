@@ -66,6 +66,7 @@ print(pred)
 corrPlot <- cor(train[, -length(names(train))])
 corrplot(corrPlot, method="color")
 
+
 #Plotting the models
 
 plot(mod_trees)
