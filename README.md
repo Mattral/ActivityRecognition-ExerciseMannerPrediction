@@ -400,6 +400,7 @@ pml_write_files = function(x){
 }
 ```
 
+
 Generating the Files.
 
 ``` r
@@ -410,5 +411,4 @@ rm(testing)
 rm(validation)
 rm(pml_write_files)
 ```
-
 
